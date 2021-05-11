@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_13_Structs_definieren_und_instanziieren", "Modul_13_Structs_definieren_und_instanziieren\Modul_13_Structs_definieren_und_instanziieren.csproj", "{C7885E4C-7A72-4DED-AC73-D8DE430D1880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7885E4C-7A72-4DED-AC73-D8DE430D1880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7885E4C-7A72-4DED-AC73-D8DE430D1880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7885E4C-7A72-4DED-AC73-D8DE430D1880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7885E4C-7A72-4DED-AC73-D8DE430D1880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05535ED4-3799-4D8F-B431-7FE982578408}
+	EndGlobalSection
+EndGlobal
